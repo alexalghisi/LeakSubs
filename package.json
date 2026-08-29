@@ -48,5 +48,5 @@
     "vitest": "^4.1.10"
   },
   "name": "leaksubs",
-  "description": "Forgotten subscriptions as an annual burn. Cancel in order of damage. The monthly number lies; the yearly one does not."
+  "description": "Recurring charges as annual cash burn, ranked by yearly impact, with explicit cancel actions."
 }

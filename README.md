@@ -1,7 +1,10 @@
 # LeakSubs
 
-Monthly prices are a lie. Adobe plus a gym you stopped attending is a holiday.
-Cancel in yearly-damage order. The math is [`src/lib/burn.ts`](src/lib/burn.ts).
+Recurring software and membership charges expressed as annual cash burn,
+ranked by yearly impact. A monthly price conceals the decision; twelve months
+does not.
+
+Ranking and totals are in [`src/lib/burn.ts`](src/lib/burn.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
 Playwright**
@@ -21,11 +24,11 @@ and Logs (Mountain View).
 | -------- | --------------------------------------------------------------------------------------- |
 | GitHub   | [github.com/alexalghisi](https://github.com/alexalghisi)                                |
 | LinkedIn | [linkedin.com/in/alghisi](https://www.linkedin.com/in/alghisi)                          |
-| Email    | [alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com) |
+| Email    | [alexalghisi@gmail.com](mailto:alexalghisi@gmail.com)                                   |
 | Location | Cluj-Napoca, Romania · open to remote / EU / US-friendly timezones                      |
 
 **Hiring?** Open an issue, message me on LinkedIn, or email
-[alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com).
+[alexalghisi@gmail.com](mailto:alexalghisi@gmail.com).
 
 ---
 
