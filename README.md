@@ -4,6 +4,10 @@ Recurring software and membership charges expressed as annual cash burn,
 ranked by yearly impact. A monthly price conceals the decision; twelve months
 does not.
 
+**Download:** [latest release](https://github.com/alexalghisi/LeakSubs/releases/latest)
+
+![LeakSubs running](docs/preview.png)
+
 Ranking and totals are in [`src/lib/burn.ts`](src/lib/burn.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
